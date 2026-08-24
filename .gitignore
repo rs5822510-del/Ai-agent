@@ -1,0 +1,5 @@
+config.yaml  
+__pycache__/  
+*.pyc  
+linkedin_debug.png  
+linkedin_debug.html 
